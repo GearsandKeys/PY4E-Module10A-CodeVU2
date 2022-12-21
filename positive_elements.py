@@ -1,4 +1,6 @@
 def print_positive_tuple_elements() -> None:
     input_tuples = input("Enter a list of tuples ")
-
-print_positive_tuple_elements()
+    
+    
+if __name__ == "__main__":
+    print_positive_tuple_elements()
